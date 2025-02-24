@@ -1,10 +1,5 @@
 ## Oi sou Jeferson Gabriel 👋
 
-- 🔭 Hoje trabalho com ciência de dados
-- 🌱 Estudando Engenharia da computação e Ciência de dados (Python, SQL, C / C++ / C#, JavaScript )
-- 👯 Projetos Reais
-
-
 <div>
 <a href="https://beacons.ai/felipecsousa2000"&gt;
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecsousa2000&theme=gruvbox&show_icons=true&hide_border=true&count_private=true"&gt;
