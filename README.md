@@ -1,7 +1,7 @@
-## Oi sou Felipe 👋
+## Oi sou Jeferson Gabriel 👋
 
 - 🔭 Hoje trabalho com ciência de dados
-- 🌱 Estudando Python, SQL, Pandas
+- 🌱 Estudando Engenharia da computação / Ciência de dados (Python, SQL, Pandas, C / C++ / C#, JavaScript
 - 👯 Projetos Reais
 
 
